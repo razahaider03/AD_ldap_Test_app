@@ -8,11 +8,19 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "npm init -y npm i",
   "dependencies": {
     "activedirectory2": "^2.2.0",
     "body-parser": "^2.2.0",
     "dotenv": "^16.6.0",
     "express": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razahaider03/AD_ldap_Test_app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/razahaider03/AD_ldap_Test_app/issues"
+  },
+  "homepage": "https://github.com/razahaider03/AD_ldap_Test_app#readme"
 }
