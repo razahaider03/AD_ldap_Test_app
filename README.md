@@ -1,3 +1,7 @@
+# About the app
+This is basic app which check the credential against the Active directory from login page.  
+Use this app to check if password is correct and working, or check if created user is actually authenticating.  
+
 # Run npm install
 npm init -y
 npm i
